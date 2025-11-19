@@ -1,1 +1,2 @@
 #teste
+print('Arquivo teste')
